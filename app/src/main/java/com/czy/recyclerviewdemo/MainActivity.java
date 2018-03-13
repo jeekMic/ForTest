@@ -20,7 +20,7 @@ public class MainActivity extends BaseActivity {
 	Log.i("hello"," world from demo");
 
 	Log.i("hello"," world from demo");
-		Log.i("hello"," world from demo");
+		Log.i("hello"," world from demo    ----------------------");
 
 	Log.i("hello"," world from demo");
 			Log.i("hello"," world from demo");
