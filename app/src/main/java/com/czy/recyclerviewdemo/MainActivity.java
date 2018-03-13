@@ -17,6 +17,13 @@ public class MainActivity extends BaseActivity {
         setContentView(R.layout.activity_main);
 		Log.i("hello"," world");
 		Log.i("hello"," world from demo");
+	Log.i("hello"," world from demo");
+
+	Log.i("hello"," world from demo");
+		Log.i("hello"," world from demo");
+
+	Log.i("hello"," world from demo");
+			Log.i("hello"," world from demo");
     }
 
     // 绑定点击事件
